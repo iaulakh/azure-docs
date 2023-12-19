@@ -85,6 +85,12 @@ UI Library provides the capability to join a call skipping the setup screen of t
 
 UI Library supports screen orientation setup for each of the screen separately prior to launch the library experience. This allows application developers to set up a fixed orientation for the calling experience which would align their application orientation. To learn more about the list of supported orientation for both Android and iOS platform and usage of the API, see [How to use Orientation Feature](../../../how-tos/ui-library-sdk/orientation.md)
 
+### Picture In Picture (In Beta)
+
+### CallKit (iOS) (In Beta)
+
+### 1 to N Calling (In Beta)
+
 ## Chat use cases
 
 [!INCLUDE [Public Preview Notice](../../../includes/public-preview-include.md)]
